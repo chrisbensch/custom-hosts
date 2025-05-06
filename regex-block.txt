@@ -1,3 +1,5 @@
+# Regex Allow list
+
 (\.|^)aiv-cdn\.net$
 (\.|^)a2z\.com$
 (\.|^)aiv-delivery\.net$
