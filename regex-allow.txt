@@ -1,4 +1,4 @@
 # Regex Allow list
 
-^(\.|)notion\.so$
-^(\.|)icloud\.com$
+*.notion.so
+*.icloud.com
