@@ -9,10 +9,3 @@
 
 
 
-
-#^https?:\/\/a16.*\.(akamai\.net|akamaihd\.net)\/.*
-#[^.]+\.mediatailor\.[^.]+\.amazonaws\.com
-
-
-
-
