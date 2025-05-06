@@ -1,1 +1,13 @@
 # Allow list
+
+data.digital.costco.com
+paramountplus.com.data.adobedc.net
+tags.tiqcdn.com
+mobile-collector.newrelic.com
+click.appcast.io
+api.amazon.com
+wl.spotify.com
+dl.orders.express-scripts.com
+click.discord.com
+goto.walmart.com
+
