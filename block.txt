@@ -1,1 +1,6 @@
 # Block list
+
+0.0.0.0 unagi-na.amazon.com
+0.0.0.0 _xmpp-client._tcp.scs.samsungqbe.com
+0.0.0.0 www.msftncsi.com
+0.0.0.0 dns.msftncsi.com

@@ -1,0 +1,9 @@
+(\.|^)aiv-cdn\.net$
+(\.|^)a2z\.com$
+(\.|^)aiv-delivery\.net$
+^https?:\/\/a16.*\.(akamai\.net|akamaihd\.net)\/.*
+[^.]+\.mediatailor\.[^.]+\.amazonaws\.com
+
+
+
+
