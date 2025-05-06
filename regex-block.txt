@@ -1,10 +1,17 @@
 # Regex Allow list
 
-(\.|^)aiv-cdn\.net$
-(\.|^)a2z\.com$
-(\.|^)aiv-delivery\.net$
-^https?:\/\/a16.*\.(akamai\.net|akamaihd\.net)\/.*
-[^.]+\.mediatailor\.[^.]+\.amazonaws\.com
+/^aiv-cdn\.net$/
+/^a2z\.net$/
+/^aiv-delivery\.net$/
+/^a16\..*\.(akamai\.net|akamaihd\.net)$/
+/^[^.]+\.mediatailor\.[^.]+\.amazonaws\.com$/
+
+
+
+
+
+#^https?:\/\/a16.*\.(akamai\.net|akamaihd\.net)\/.*
+#[^.]+\.mediatailor\.[^.]+\.amazonaws\.com
 
 
 
